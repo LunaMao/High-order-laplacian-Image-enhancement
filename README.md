@@ -2,6 +2,8 @@ Explore the potential of topological structure information hidden inside higher 
 
 Due to the data protocal and the need of paper pubulication, the data and main function have not been uploaded yet. If you feel interested, please contact me directly!!!
 
+![10_sg](https://github.com/LunaMao/High-order-laplacian-Image-enhancement/assets/160859098/c39f5c2f-cf88-4c75-9f14-dfeacfc36931)
+
 Key words: Unsupervised Geometric Learning, Graph-Spectral theory, Image enhancement
 
 [1] Fanuel, Michaël, Carlos M. Alaiz, and Johan AK Suykens. "Magnetic eigenmaps for community detection in directed networks." Physical Review E 95.2 (2017): 022302.
