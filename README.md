@@ -1,4 +1,5 @@
 Explore the potential of topological structure information hidden inside higher dimensional data.
+
 Key words: Unsupervised Geometric Learning, Graph-Spectral theory, Image enhancement
 
 [1] Fanuel, Michaël, Carlos M. Alaiz, and Johan AK Suykens. "Magnetic eigenmaps for community detection in directed networks." Physical Review E 95.2 (2017): 022302.
