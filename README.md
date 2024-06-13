@@ -2,7 +2,7 @@ Explore the potential of topological structure information hidden inside higher 
 
 Due to the data protocal and the need of paper pubulication, the data and main function have not been uploaded yet. If you feel interested, please contact me directly!!!
 
-![10_sg](https://github.com/LunaMao/High-order-laplacian-Image-enhancement/assets/160859098/c39f5c2f-cf88-4c75-9f14-dfeacfc36931)
+![10_sg](https://github.com/LunaMao/High-order-laplacian-Image-enhancement/assets/160859098/7c2e5489-7507-4bd9-9528-8710a88c45c4)
 
 Key words: Unsupervised Geometric Learning, Graph-Spectral theory, Image enhancement
 
